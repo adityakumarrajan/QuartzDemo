@@ -1,0 +1,15 @@
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\bin\Debug\QuartzSchedulerDemo.exe.config
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\obj\Debug\QuartzSchedulerDemo.csprojResolveAssemblyReference.cache
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\bin\Debug\QuartzSchedulerDemo.exe
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\bin\Debug\QuartzSchedulerDemo.pdb
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\bin\Debug\Common.Logging.Core.dll
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\bin\Debug\Common.Logging.dll
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\bin\Debug\Quartz.dll
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\bin\Debug\Common.Logging.pdb
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\bin\Debug\Common.Logging.xml
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\bin\Debug\Common.Logging.Core.pdb
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\bin\Debug\Common.Logging.Core.xml
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\bin\Debug\Quartz.pdb
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\bin\Debug\Quartz.xml
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\obj\Debug\QuartzSchedulerDemo.exe
+D:\MyWork\QuartzScheduler\QuartzSchedulerDemo\QuartzSchedulerDemo\obj\Debug\QuartzSchedulerDemo.pdb
